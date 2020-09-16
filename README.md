@@ -22,4 +22,4 @@ The following Repository contains code that can be used to play the Asphalt 8 Ga
 
 Enjoy the Game!
 
-If you are interested in the working of the code, information is given in the code file as comments.
+If you are interested in the working of the code, information is given in the code files as comments.
